@@ -1148,7 +1148,7 @@ main,#app {
 .home-navigation-item p a:hover {
   text-decoration:underline
 }
-.home-navigation-item .button-container {
+.home-navigation-item .-container {
   -webkit-box-flex:0;
   -ms-flex:0 0 auto;
   flex:0 0 auto
