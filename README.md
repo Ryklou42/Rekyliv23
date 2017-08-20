@@ -10,7 +10,7 @@ Read [License](LICENSE) for more licensing information.
 
 Pay [PayPal]() 20 dollar and u can get an esay copy of this projcet! but u need to
 
-* Read my [Tearms of use](tfu)
+* Read my [Tearms of use](tfu.md)
 
 
 ## Website
